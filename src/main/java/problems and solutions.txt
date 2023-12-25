@@ -1,0 +1,9 @@
+problem 1:
+No data sources are configured to run this SQL and provide advanced code assistance. Disable this inspection via problem menu (Alt+Enter).
+SQL dialect is not configured.
+solution 1:
+https://stackoverflow.com/questions/42933570/no-data-sources-are-configured-to-run-this-sqlhttps://stackoverflow.com/questions/42933570/no-data-sources-are-configured-to-run-this-sql
+
+
+
+
